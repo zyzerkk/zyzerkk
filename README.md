@@ -16,11 +16,22 @@
 
 ---
 
-## 📊 GitHub Metrics (gerado pelo meu próprio Action)
+## 🧩 Tecnologias & Ferramentas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zyzerkk/zyzerkk/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,html,css,react,tailwind,vite,nodejs,fastapi,postgres,mysql,mongodb,sqlite,docker,git,github,arduino,vscode,figma,linux,openai&perline=12" alt="Tech Stack"/>
+
+<br/>
+
+![Firebird](https://img.shields.io/badge/Firebird_FDB-EF3939?style=flat-square&logo=firebird&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Modulus-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Pixel-0866FF?style=flat-square&logo=meta&logoColor=white)
+![IBExpert](https://img.shields.io/badge/IBExpert-112240?style=flat-square)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
@@ -54,44 +65,28 @@ class LuísOtávioGuero:
 
 ---
 
-## Stack Técnica Completa
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Categoria | Tecnologias |
-|:---|:---|
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=38bdf8) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=38bdf8) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8) ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=38bdf8) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=38bdf8) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=38bdf8) ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&logo=openai&logoColor=38bdf8) ![Webhooks](https://img.shields.io/badge/Webhooks-0d1117?style=flat-square&logo=zapier&logoColor=38bdf8) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8) ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=38bdf8) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=38bdf8) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=38bdf8) ![SQL Server](https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=38bdf8) ![Firebird](https://img.shields.io/badge/Firebird_FDB-0d1117?style=flat-square&logo=databricks&logoColor=38bdf8) |
-| **Embedded & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=38bdf8) ![PION](https://img.shields.io/badge/PION_Labs-0d1117?style=flat-square&logo=spacex&logoColor=38bdf8) ![RF LoRa](https://img.shields.io/badge/RF_LoRa_433MHz-0d1117?style=flat-square&logo=bluetooth&logoColor=38bdf8) |
-| **IA & Ciência** | ![NVIDIA Modulus](https://img.shields.io/badge/NVIDIA_Modulus-0d1117?style=flat-square&logo=nvidia&logoColor=38bdf8) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=38bdf8) ![Google Colab](https://img.shields.io/badge/Google_Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=38bdf8) |
-| **Testes** | ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=38bdf8) ![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-0d1117?style=flat-square&logo=meta&logoColor=38bdf8) |
-| **Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=38bdf8) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=38bdf8) ![IBExpert](https://img.shields.io/badge/IBExpert-0d1117?style=flat-square&logo=databricks&logoColor=38bdf8) ![DB Visualizer](https://img.shields.io/badge/DB_Visualizer-0d1117?style=flat-square&logo=databricks&logoColor=38bdf8) |
-| **Deploy** | ![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=38bdf8) ![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=38bdf8) ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=38bdf8) |
+<img src="https://github-readme-stats.vercel.app/api?username=zyzerkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zyzerkk&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
----
-
-## 📊 Detalhes das Métricas Ativas
+<details>
+<summary align="center"><b>📈 Métricas detalhadas (calendário, hábitos, linhas de código)</b></summary>
+<br/>
 
 <div align="center">
 
-> O bloco acima é uma única imagem (`github-metrics.svg`), gerada e commitada automaticamente pelo workflow `.github/workflows/metrics.yml` deste repositório — não depende de nenhum serviço externo.
+<img src="https://raw.githubusercontent.com/zyzerkk/zyzerkk/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
-**Plugins configurados e por quê:**
+Gerado automaticamente pelo workflow `.github/workflows/metrics.yml` deste repositório (commit direto, sem serviço externo). Inclui: calendário isométrico de commits, linguagens por atividade real, linhas adicionadas/removidas, hábitos de codificação e conquistas do GitHub.
 
-| Plugin | O que mostra | Relação com meu perfil |
-|:---|:---|:---|
-| `isocalendar` | Calendário de commits em vista isométrica + streak atual | Consistência de contribuição ao longo do ano |
-| `languages` | Linguagens mais usadas ponderadas por atividade real (não só bytes) | Reflete Python/C++/TS/SQL do dia a dia |
-| `lines` | Linhas adicionadas/removidas por repositório | Volume real de código em produção (Zucchetti, OBSAT) |
-| `habits` | Horários e hábitos de codificação (dia da semana, hora do dia) | Mostra rotina técnica consistente |
-| `achievements` | Conquistas do GitHub (stars, PRs, issues, streaks) | Reputação e engajamento open source |
-| `activity` | Atividade recente (commits, PRs, issues) | Complementa a seção de Atividade Recente abaixo |
+</details>
 
 ---
 
