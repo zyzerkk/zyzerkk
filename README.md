@@ -16,11 +16,11 @@
 
 ---
 
-## 🌇 GitHub Skyline
+## 📊 GitHub Metrics (gerado pelo meu próprio Action)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zyzerkk/zyzerkk/main/dist/skyline.svg" alt="GitHub Skyline" width="100%"/>
+<img src="https://raw.githubusercontent.com/zyzerkk/zyzerkk/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
@@ -74,34 +74,15 @@ class LuísOtávioGuero:
 
 ---
 
-## 📊 Métricas Dinâmicas (GitHub Metrics)
+## 📊 Detalhes das Métricas Ativas
 
 <div align="center">
 
-> Gerado automaticamente via [`lowlighter/metrics`](https://github.com/lowlighter/metrics) — Action que roda no repositório `zyzerkk/zyzerkk` e atualiza estas imagens periodicamente (cron).
-
-<img src="https://metrics.lecoq.io/zyzerkk?template=classic&base=header,activity,community,repositories&config.timezone=America%2FSao_Paulo&achievements=true&achievements.threshold=C" width="100%"/>
-
-<br/>
-
-<img src="https://metrics.lecoq.io/zyzerkk?template=classic&base=&isocalendar=true&isocalendar.duration=full-year" width="100%"/>
-
-<br/>
-
-<img src="https://metrics.lecoq.io/zyzerkk?template=classic&base=&languages=true&languages.limit=8&languages.threshold=0%25" width="48%"/>
-<img src="https://metrics.lecoq.io/zyzerkk?template=classic&base=&lines=true&lines.sections=all" width="48%"/>
-
-<br/>
-
-<img src="https://metrics.lecoq.io/zyzerkk?template=classic&base=&habits=true&habits.facts=true&habits.charts=true&habits.trim=true" width="100%"/>
-
-<br/>
-
-<img src="https://metrics.lecoq.io/zyzerkk?template=classic&base=&code=true&code.lines=6" width="100%"/>
+> O bloco acima é uma única imagem (`github-metrics.svg`), gerada e commitada automaticamente pelo workflow `.github/workflows/metrics.yml` deste repositório — não depende de nenhum serviço externo.
 
 </div>
 
-**Plugins ativos e por quê:**
+**Plugins configurados e por quê:**
 
 | Plugin | O que mostra | Relação com meu perfil |
 |:---|:---|:---|
@@ -109,7 +90,6 @@ class LuísOtávioGuero:
 | `languages` | Linguagens mais usadas ponderadas por atividade real (não só bytes) | Reflete Python/C++/TS/SQL do dia a dia |
 | `lines` | Linhas adicionadas/removidas por repositório | Volume real de código em produção (Zucchetti, OBSAT) |
 | `habits` | Horários e hábitos de codificação (dia da semana, hora do dia) | Mostra rotina técnica consistente |
-| `code` | Trecho de código aleatório dos meus próprios repositórios | Amostra viva do meu estilo de código |
 | `achievements` | Conquistas do GitHub (stars, PRs, issues, streaks) | Reputação e engajamento open source |
 | `activity` | Atividade recente (commits, PRs, issues) | Complementa a seção de Atividade Recente abaixo |
 
@@ -555,21 +535,13 @@ test('smoke — sem erros críticos de console', async ({ page }) => {
 
 ---
 
-## 🌟 Interesses Técnicos Recentes
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/zyzerkk?template=classic&base=&stars=true&stars.limit=4&stars.order=desc" width="100%"/>
-
-</div>
-
 ---
 
 <details>
 <summary><b>⚙️ Como este README gera as métricas automaticamente (Metrics Action)</b></summary>
 <br/>
 
-Este perfil usa a [GitHub Action oficial do `lowlighter/metrics`](https://github.com/lowlighter/metrics) para renderizar SVGs atualizados via cron, hospedados no repositório especial `zyzerkk/zyzerkk`. Configuração resumida do workflow:
+Este perfil usa a [GitHub Action oficial do `lowlighter/metrics`](https://github.com/lowlighter/metrics), rodando dentro do próprio repositório `zyzerkk/zyzerkk`. O Action gera o arquivo `github-metrics.svg` via commit automático (cron diário), e o README apenas exibe esse arquivo — sem depender de nenhum serviço externo. Configuração do workflow:
 
 ```yaml
 # .github/workflows/metrics.yml
